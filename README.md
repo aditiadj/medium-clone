@@ -1,1 +1,1 @@
-# Simple Medium clone website
+# Simple Medium Clone Website
